@@ -5,7 +5,7 @@ This repository contains my completed exercises for the Machine Learning Laborat
 ## Repository Structure
 
 ```
-ML/
+machine_learning_lab/
 ├── Bagging_Boosting/        # Ensemble methods: Bagging and Boosting
 ├── Decision_Trees/          # Decision Tree algorithms
 ├── Feature_Maps/            # Feature mapping techniques
