@@ -13,7 +13,8 @@ machine_learning_lab/
 ├── Logistic_Regression/     # Logistic Regression implementation
 ├── Naive_Bayes/             # Naive Bayes classifier
 ├── Polynomial_Regression/   # Polynomial Regression implementation
-└── README.md                # Project overview and instructions
+├── README.md                # Project overview and instructions
+└── requirements.txt         # All required dependencies
 ```
 
 Each directory contains:
@@ -31,6 +32,7 @@ Each directory contains:
   - Scikit-learn
   - Matplotlib
   - Jupyter Notebook
+  - Torch
 
 ## Getting Started
 
