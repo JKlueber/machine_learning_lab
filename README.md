@@ -38,8 +38,8 @@ To run the notebooks and scripts locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/JKlueber/ML.git
-   cd ML
+   git clone https://github.com/JKlueber/machine_learning_lab.git
+   cd machine_learning_lab
    ```
 
 2. **Create a virtual environment (optional but recommended):**
